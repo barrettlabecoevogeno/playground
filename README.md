@@ -9,4 +9,4 @@ Git tracks changes to files saves a record of those changes, with your comments,
 At the heart of Git are repositories, branches, and commits. **Repositories** are folders containing files that are being tracked by Git. **Branches** represent different 
 [GitHub Hello World](https://guides.github.com/activities/hello-world/)
 
-Add a line here. Helli World!
+Add a line here. Hello World!
